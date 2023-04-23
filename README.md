@@ -1,7 +1,10 @@
 # SQL-Youtube-Spotify-Project
 1.Dividing the data into 2 parts Yt and Sp
+
 2.Cleaning YT data with excel(correct data type, using filter)
+
 3.Cleaning Spotify data with excel(correct data type, using filter)
+
 4.Answering stakeholder questions using SQL
 
 ### QUESTIONS 1
