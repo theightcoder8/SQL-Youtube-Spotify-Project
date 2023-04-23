@@ -1,0 +1,29 @@
+Which songs have the highest danceability score?
+What is the average loudness of songs by a particular artist?
+Which album has the highest average energy score?
+Which tracks have the highest speechiness scores?
+How many tracks have a tempo greater than a certain value?
+Which tracks have a duration greater than a certain value?
+Which tracks have both a high danceability score and a high valence score?
+How many licensed music videos are there in the YouTube data?
+Which artists have the most views on YouTube?
+How many comments have been left on YouTube videos by a particular artist?
+
+Which songs from Spotify have the most views on YouTube?
+How many tracks from Spotify are also available as licensed music videos on YouTube?
+Which artists have the highest average danceability score across both Spotify and YouTube?
+Which songs on Spotify have official music videos on YouTube with more than a certain number of likes?
+How many tracks on Spotify have been streamed on YouTube?
+Which artists have the highest total number of views across all of their Spotify tracks on YouTube?
+Which Spotify tracks have the highest number of views on YouTube, and what is the duration of those tracks?
+Which Spotify albums have the highest total number of views on YouTube, and what is the album type of those albums?
+How many Spotify tracks have both a high energy score and a high number of views on YouTube?
+Which artists have the highest number of comments on their YouTube music videos, and which Spotify tracks do those videos correspond to?
+
+
+
+DID
+1.I have divided the data into 2 parts-Yt and Sp
+2.I have cleaned YT data with excel(correct data type, using filter)
+3.I have cleaned Spotify data with excel(correct data type, using filter)
+4.
